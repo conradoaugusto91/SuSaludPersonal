@@ -1,0 +1,9 @@
+Coloca aquí el imagotipo oficial "Gobierno de México · Salud" proporcionado por la Dirección de Imagen
+(la Guía de Identidad Gráfica 2024-2030 prohíbe crear o redibujar imagotipos).
+
+Nombres de archivo que la app busca automáticamente:
+
+  gobierno-salud-light.png   -> versión para fondo claro (pantalla de acceso de la app)
+  gobierno-salud-dark.png    -> versión en negativo para fondo oscuro (barra lateral de la consola médica)
+
+Altura recomendada: 80 px o más (se muestra a 34–40 px). Mientras no existan, la app muestra un texto neutro.
